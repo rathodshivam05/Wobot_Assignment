@@ -5,7 +5,7 @@
 Design and develop an intuitive onboarding page for Wobot.ai that simplifies user registration. The objective is to create a user-friendly interface for new users to provide essential information, including their name, company name, industry, and number of locations. This data will help Wobot.ai understand its user base, offer tailored solutions, and accommodate various organization scales.
 [Assignment Link](https://www.figma.com/file/ycUQvItQwK42b1nhLemhbF/HC-Team-Post---Wareesha?node-id=45%3A19&t=AqAnREjjNPU79swi-1)
 
-<img src="screen.png" alt="screenshot">
+<img src="./public/screen.png" alt="screenshot">
 
 ## Tech Stacks
 <p aligin="center">
